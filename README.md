@@ -1,6 +1,6 @@
 # SostenibilidadDesarrolloSostenible
 
-##Índice
+## Índice
 1.1. Introducción
 1.2. Sostenibilidad y desarrollo sostenible
 1.3. ¿Qué significa la sigla ASG?
