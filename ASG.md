@@ -9,6 +9,6 @@ Las siglas **ASG** se refieren a los aspectos a tener en cuenta para evaluar el 
 
 * **G**obernanza: Se refiere a cómo se estructura, dirige y gestiona la empresa, incluyendo aspectos como la transparencia, la ética en los negocios, la composición del consejo de administración, la toma de decisiones, la lucha contra la corrupción y la estrategia fiscal.
   
-![ASG](asg.png)
+[ASG](asg.png)
 
 
