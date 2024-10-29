@@ -6,8 +6,11 @@ El primer paso es aceptar que la naturaleza y el medioambiente deben ser protegi
 Algunos ejes de desarrollo necesarios para alcanzar las metas de sostenibilidad establecidas son los siguientes:
 
     [Conservación y gestión de los recursos naturales.](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_los_recursos_naturales)
+    
     [Disminución de las emisiones de gases de efecto invernadero.](https://www.miteco.gob.es/es/cambio-climatico/temas/mitigacion-politicas-y-medidas/objetivos.html)
+    
     [Impulso del desarrollo económico sostenible.](https://www.eleconomista.es/opinion/noticias/12807859/05/24/el-crecimiento-y-la-sostenibilidad-de-espana.html)
+    
     Reducción de las desigualdades.
     Restauración y protección de los ecosistemas.
     Fomento de la investigación y educación en sostenibilidad y tecnologías como la electricidad verde.
