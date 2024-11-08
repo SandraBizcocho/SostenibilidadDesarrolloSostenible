@@ -7,4 +7,4 @@ La CSRD, directiva de la Unión Europea vigente desde el 5 de enero de 2023, (pr
 Resumiendo, la CSRD mejora la transparencia de la información relacionada con la sostenibilidad,impulsa la inversión sostenible, establece normas comunes, claras, verificables y responsables.
 
     
-    
+![marconormativo](marconormativo.jpeg)    
