@@ -10,9 +10,3 @@ Algunos ejes de desarrollo necesarios para alcanzar las metas de sostenibilidad 
 [Disminución de las emisiones de gases de efecto invernadero.](https://www.miteco.gob.es/es/cambio-climatico/temas/mitigacion-politicas-y-medidas/objetivos.html)
 
 [Impulso del desarrollo económico sostenible.](https://www.eleconomista.es/opinion/noticias/12807859/05/24/el-crecimiento-y-la-sostenibilidad-de-espana.html)
-
-Reducción de las desigualdades.
-Restauración y protección de los ecosistemas.
-Fomento de la investigación y educación en sostenibilidad y tecnologías como la electricidad verde.
-Planes de adaptación a los efectos del cambio climático.
-Impulso de la participación ciudadana.
