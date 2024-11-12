@@ -2,7 +2,7 @@
 
 **Asamblea:** Reunión de los miembros de un lugar de interés para discutir cuestiones de interés común y, en su caso, adoptar decisiones.
     
-**Biodiversidad:** La biodiversidad, o diversidad biológica, es el conjunto de todos los seres vivos del planeta, el ambiente en el que viven y la relación que guardan con otras especies.
+**Biodiversidad:** La biodiversidad o diversidad biológica es el conjunto de todos los seres vivos del planeta, el ambiente en el que viven y la relación que guardan con otras especies.
 
 **Derechos humanos:** Conjunto de derechos y libertades fundamentales para el disfrute de la vida humana en condiciones de plena dignidad, y se definen como intrínsecos a toda persona por el mero hecho de pertenecer al género humano.
 
