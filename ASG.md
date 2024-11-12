@@ -1,4 +1,6 @@
-# 1.3. ¿Que significa la sigla ASG?
+
+# 1.3. ¿Qué significa la sigla ASG?
+
 
 Las siglas  ***ASG***  se refieren a los aspectos a tener en cuenta para evaluar el impacto de una empresa u organización sobre los 3 ámbitos clave de la sostenibilidad: 
 
