@@ -1,6 +1,6 @@
 # 1.1. Introducción
 
-Sostenibilidad es desarrollar la manera de satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones, garantizando el equilibrio entre el crecimiento económico, el cuidado del medio ambiente y el bienestar social. La supervivencia de nuestra sociedad y de nuestro planeta pasa por un mundo más sostenible. Este concepto aparece inicialmente en 1987 con la publicación del informa Brundtland
+Sostenibilidad es desarrollar la manera de satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones, garantizando el equilibrio entre el crecimiento económico, el cuidado del medio ambiente y el bienestar social. La supervivencia de nuestra sociedad y de nuestro planeta pasa por un mundo más sostenible. 
 
 El desarrollo sostenible es un concepto que aparece por primera vez en 1987 con la publicación del Informe Brundtland, que alertaba de las consecuencias medioambientales negativas del desarrollo económico y la globalización y trataba de buscar posibles soluciones a los problemas derivados de la industrialización y el crecimiento de la población.
 
