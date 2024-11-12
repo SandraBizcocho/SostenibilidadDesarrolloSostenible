@@ -1,3 +1,3 @@
 # Autores
 
-ABM y SBC
+Adrián Batres Mármol y Sandra Bizcocho Cordero
