@@ -4,7 +4,9 @@
 
 Las siglas  ***ASG***  se refieren a los aspectos a tener en cuenta para evaluar el impacto de una empresa u organización sobre los 3 ámbitos clave de la sostenibilidad: 
 
-![ASG2](img/asg2.png)
+<p align="center">
+  <img src="/img/asg2.png" alt="![ASG2](/img/asg2.png)" />
+</p>  
 
 * **AMBIENTAL**: Considera el impacto de la empresa en el medio ambiente, ya sea de manera directa o indirectamente. Incluye su gestión de recursos naturales, la huella de carbono, la gestión de residuos, la eficiencia energética y la contaminación.
 
